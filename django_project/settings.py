@@ -125,3 +125,7 @@ MAILERS = {
         'BACKEND': 'django.core.mail.backends.console.EmailBackend',
     },
 }
+INSTALLED_APPS = [
+    # Keep the Django apps already listed here.
+    "portfolio_app",
+]
