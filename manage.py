@@ -20,3 +20,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+#this is to make the table in the database for the student model.
